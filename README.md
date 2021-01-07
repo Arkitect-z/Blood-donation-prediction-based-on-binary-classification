@@ -5,7 +5,7 @@ To use this program, you can run "classification.py" to train a model and predic
 使用本程序时，通过"classification.py"来训练模型，通过"predict.py"来预测献血可能性。
 "model"文件夹是训练好的示例模型，拥有85%左右的准确率，epoch recall曲线在Train_Result.png中。
 
-本实验的数据是2008年采集自台湾新竹市输血服务中心的捐助者数据库。
+本实验的数据是2008年采集自中国台湾省新竹市输血服务中心的捐助者数据库。
 
 本数据集为一个二分类问题，共有748条数据，每条数据有4个决策属性以及1个分类标签。
 

@@ -9,7 +9,7 @@ To use this program, you can run "classification.py" to train a model and predic
 
 本数据集为一个二分类问题，共有748条数据，每条数据有4个决策属性以及1个分类标签。
 
-决策属性：
+决策属性：\n
   Recency：自从上次献血以来经过的时间
   Frequency：捐赠总数
   Monetary：捐赠血液总量（单位：cc）

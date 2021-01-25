@@ -30,7 +30,6 @@ To use this program, you can run "classification.py" to train a model and predic
     是否捐赠血液：0（是）否（1）
 
 训练结果：
-
     ![train_result.png](https://github.com/Arkitect-z/Blood-donation-prediction-based-on-two-class-classification/blob/main/Train_Result.png)
 
 意义：

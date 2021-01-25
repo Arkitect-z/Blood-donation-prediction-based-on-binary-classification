@@ -1,5 +1,7 @@
 # Blood-donation-prediction-based-on-two-classifications
-基于二分类的献血预测; 不平衡数据集处理; 献血预测; 序贯模型
+标签：
+
+    基于二分类的献血预测;  不平衡数据集处理;  献血预测;  序贯模型
 
 
 To use this program, you can run "classification.py" to train a model and predict by running "predict.py".

@@ -1,4 +1,4 @@
-# Blood-donation-prediction-based-on-two-classifications
+# Blood-donation-prediction-based-on-Binary-classifications
 标签：
 
     基于二分类的献血预测;  不平衡数据集处理;  献血预测;  序贯模型

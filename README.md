@@ -10,7 +10,7 @@ To use this program, you can run "classification.py" to train a model and predic
 "model"文件夹是训练好的示例模型，拥有85%左右的准确率，epoch recall曲线在Train_Result.png中。
 
 
-本实验的数据是2008年采集自中国台湾省新竹市输血服务中心的捐助者数据库。
+本实验的数据是2008年采集自中国台湾省新竹市输血服务中心的捐助者数据库，数据仅供参考。
 
 
 本数据集为一个二分类问题，共有748条数据，每条数据有4个决策属性以及1个分类标签。
@@ -30,6 +30,7 @@ To use this program, you can run "classification.py" to train a model and predic
     是否捐赠血液：0（是）否（1）
 
 训练结果：
+
     ![train_result.png](https://github.com/Arkitect-z/Blood-donation-prediction-based-on-two-class-classification/blob/main/Train_Result.png)
 
 意义：

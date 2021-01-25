@@ -4,9 +4,9 @@
     基于二分类的献血预测;  不平衡数据集处理;  献血预测;  序贯模型
 
 
-To use this program, you can run "classification.py" to train a model and predict by running "predict.py".
+To use this program, you can run "classification.py" to train a new model and predict immediately by running "predict.py".
 
-使用本程序时，通过"classification.py"来训练模型，通过"predict.py"来预测献血可能性。
+使用本程序时，通过"classification.py"来训练新模型，或通过"predict.py"立即预测献血可能性。
 
 
     "model"文件夹是训练好的示例模型，拥有85%左右的准确率，epoch recall曲线在Train_Result.png中。
